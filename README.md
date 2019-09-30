@@ -4,8 +4,11 @@ https://www.nand2tetris.org/
 
 # Done
 * 1장 불 논리
-  - NAND 게이트만으로 다른 기본 논리 게이트 구현 (NOT, AND, OR/XOR, MUX, DMUX)
-  - 다입력/멀티비트로 확장
+  - NAND 게이트만으로 다른 기본 논리 게이트들을 구현하기 (NOT, AND, OR/XOR, MUX, DMUX)
+  - 다입력/멀티비트로 확장하기
 
-# TODO
-2장-12장
+# In-progress
+* 2장 불 연산
+  - 1장에서 구현한 논리 게이트들로부터 ALU (산술 논리 연산 장치) 완성하기
+# To-Do
+3장-12장
