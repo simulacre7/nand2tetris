@@ -1,7 +1,8 @@
 # nand2tetris
 "밑바닥부터 만드는 컴퓨팅 시스템" 책에서 제공하는 과제의 풀이를 올려두는 공간입니다.  
-(원제: The Elements of Computing Systems: Building a Modern Computer from First Principles)  
-https://www.nand2tetris.org/
+(원제: "The Elements of Computing Systems: Building a Modern Computer from First Principles" by _Noam Nisan_ and _Shimon Schocken_)  
+(정오표: https://docs.google.com/document/d/1VE1mJlddADycAT-jBJc4nNID1w_wiKCrmreaF1Z9sb4/edit)  
+(Official website: https://www.nand2tetris.org/)
 
 # Done
 * 1장 불 논리
