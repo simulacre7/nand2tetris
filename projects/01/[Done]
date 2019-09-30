@@ -11,3 +11,9 @@
 - Not16.hdl
 - Or16.hdl
 - Mux16.hdl
+
+# multi-way (다입력) & 16-bit
+- Mux4Way16.hdl
+- Mux8Way16.hdl
+- DMux4Way.hdl
+- DMux8Way.hdl
