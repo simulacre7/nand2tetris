@@ -19,8 +19,8 @@ CHIP FullAdder {
 
 
     /* CARRY: And(Xor(A, B), C) + AND(A, B)*/
-    Xor(a=a, b=b, out=xorAB2);
-    And(a=xorAB2, b=c, out=left);
+    Xor(a=a, b=b, out=xorAB2); /* Sum of HalfAdder*/
+    And(a=xorAB2, b=c, out=left); 
 
     And(a=a, b=b, out=right);
 
