@@ -17,3 +17,4 @@
 - Mux8Way16.hdl
 - DMux4Way.hdl
 - DMux8Way.hdl
+- Or8Way.hdl
