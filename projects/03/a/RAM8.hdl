@@ -24,13 +24,5 @@ CHIP RAM8 {
     Register(in=in, load=sel5, out=r5);
     Register(in=in, load=sel6, out=r6);
     Register(in=in, load=sel7, out=r7);
-    Register(in=in, load=sel8, out=r8);
-    Register(in=in, load=sel9, out=r9);
-    Register(in=in, load=sel10, out=r10);
-    Register(in=in, load=sel11, out=r11);
-    Register(in=in, load=sel12, out=r12);
-    Register(in=in, load=sel13, out=r13);
-    Register(in=in, load=sel14, out=r14);
-    Register(in=in, load=sel15, out=r15);
     Mux8Way16(a=r0, b=r1, c=r2, d=r3, e=r4, f=r5, g=r6, h=r7, sel=address, out=out);
 }
